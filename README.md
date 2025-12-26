@@ -81,3 +81,5 @@ If you use these notebooks in your work, please cite this repository using https
 ## Help
 
 If you uncover any issues or bugs, you can open an issue on GitHub. For faster responses, however, we encourage you to submit a [JWST Help Desk Ticket](jwsthelp.stsci.edu)
+
+(S \cdot T \cdot E \cdot L \cdot M) = \Psi
